@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="names">
+        <item>Демин И.А.</item>
+        <item>Дамарад Д.В.</item>
+        <item>Иванов И.И.</item>
+        <item>Хоров Н.М.</item>
+        <item>Черняков Т.В.</item>
+        <item>Дибровенко А.О.</item>
+        <item>Койков М.А.</item>
+    </array>
+</resources>
